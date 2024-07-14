@@ -28,13 +28,13 @@ The dataset used for this project is sourced from a publicly available Kaggle re
 The dashboard highlights key areas for improving patient care and resource management, providing actionable insights for healthcare providers.
 
 ## How to Use
-1. Download the dataset from [Kaggle Dataset](https://www.kaggle.com/datasets/dinocojagadeeshr/analytics-for-hospitals-healthcare-data )].
+1. Download the dataset from [Kaggle Dataset](https://www.kaggle.com/datasets/dinocojagadeeshr/analytics-for-hospitals-healthcare-data )
 2. Follow the steps to clean and prepare the data.
 3. Use the provided Excel workbook to explore the visualizations and insights.
 
 ## Links
-- **Excel File**: [Download Excel File](link_to_excel_file)
-- **Dashboard Image**: ![Dashboard Image](link_to_image)
+- **Excel File**: [Download Excel File](https://github.com/danartech/Healthcare-Analytics-Excel/blob/main/Hospital_Data%20Working%20File.xlsx)
+- **Dashboard Image**: ![Dashboard Image](https://github.com/danartech/Healthcare-Analytics-Excel/blob/main/Healthcare%20Analytics%20Dashboard.png)
   
 ## Contact
 For more information, please contact Dana Robinson at danarfintech@gmail.com.
